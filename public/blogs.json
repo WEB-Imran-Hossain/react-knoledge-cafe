@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12345",
+    "cover": "https://i.ibb.co/HDc3XD8/blog2.jpg",
+    "title": "Secrets of the Enchanted Forest",
+    "author": "Emily Smith",
+    "author_img": "https://example.com/author_image_emily.jpg",
+    "posted_date": "September 14, 2023",
+    "reading_time": 12,
+    "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+  },
+  {
+    "id": "67890",
+    "cover": "https://i.ibb.co/X7zDJz9/blog3.jpg",
+    "title": "Infinite Horizons",
+    "author": "John Anderson",
+    "author_img": "https://example.com/author_image_john.jpg",
+    "posted_date": "September 12, 2023",
+    "reading_time": 8,
+    "hashtags": ["#ScienceFiction", "#Exploration", "#Future"]
+  },
+  {
+    "id": "54321",
+    "cover": "https://i.ibb.co/ZMfK7wx/blog1.jpg",
+    "title": "Cooking Delights",
+    "author": "Maria Rodriguez",
+    "author_img": "https://example.com/author_image_maria.jpg",
+    "posted_date": "September 10, 2023",
+    "reading_time": 15,
+    "hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+  },
+  {
+    "id": "98765",
+    "cover": "https://i.ibb.co/ZMfK7wx/blog1.jpg",
+    "title": "Mysteries of the Deep",
+    "author": "David Thompson",
+    "author_img": "https://example.com/author_image_david.jpg",
+    "posted_date": "September 8, 2023",
+    "reading_time": 10,
+    "hashtags": ["#Adventure", "#Underwater", "#Exploration"]
+  }
+]
